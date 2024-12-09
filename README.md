@@ -92,9 +92,13 @@ Knowledge of SQL and NoSQL databases for efficient data storage:
 
 ## 🌐 Let's Connect
 
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashri-patil24)
+
 - [LinkedIn](https://www.linkedin.com/in/dhanashri-patil24)
 
 
 ---
 
-Thanks for visiting my profile! 😄
+Thanks for visiting my profile! 

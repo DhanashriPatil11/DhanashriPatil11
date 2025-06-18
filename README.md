@@ -59,7 +59,7 @@ I’m a curious and driven engineering student passionate about solving real-wor
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhanashri-patil24" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanashri-patil11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:patil.dhanashrik@gmail.com">

@@ -1,76 +1,78 @@
 <h1 align="center">Hi there 👋, I'm Dhanashri Patil</h1>
 
 <p align="center">
-  🎓 <strong>Third-Year BTech Student in Artificial Intelligence & Machine Learning</strong><br>
-  💻 <strong>Full Stack Developer | AI/ML Enthusiast</strong>
+  🚀 AI & ML Student | 💻 Full Stack Developer | 🌱 Tech Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4AE8FF&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+something+new!;Full+Stack+Developer;AI%2FML+Engineer+in+progress..." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I’m a curious and driven engineering student passionate about solving real-world problems through **technology and innovation**. My interest lies in crafting responsive web apps, developing intelligent systems, and collaborating on impactful tech projects.
-
-- 🌱 Currently enhancing skills in **Full Stack Development** (MERN stack).
-- 🤖 Exploring **AI/ML** applications using Python and Scikit-learn.
-- 🔍 Interested in DevOps, cloud tools, and building scalable apps.
-- 🛠️ Love contributing to hackathons and open-source projects.
+- 🎓 Third-Year BTech student in **Artificial Intelligence & Machine Learning**
+- 🌐 Passionate about **Full Stack Development** & real-world problem-solving
+- 🤖 Exploring AI/ML using Python, Scikit-learn, and TensorFlow
+- 🌱 Currently learning: **Spring Boot** and **DevOps**
+- 🚀 Open to internships, collaborations, and open-source projects!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Languages & Tools
 
-### 💻 Full Stack Web Development
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-
-### 🤖 AI & Machine Learning
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-
-### 🗄️ Databases
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-### 🧰 Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanashriPatil11&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanashriPatil11&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanashriPatil11&layout=compact&theme=radical" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanashriPatil11&show_icons=true&theme=radical&hide_border=false" width="50%"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB%20Development-Full%20Stack-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 💻 Tech Stack Breakdown (Like the Screenshot)
+
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanashri-patil11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:patil.dhanashrik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/DhanashriPatil11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <a href="https://github.com/DhanashriPatil11">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let's connect and build something amazing together.*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanashriPatil11&theme=radical" />
+</p>
 
+---
+
+<p align="center">💬 Let's collaborate and build amazing things together!</p>

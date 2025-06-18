@@ -22,9 +22,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,vercel,netlify,render,Github pages, AWS" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,docker,aws" /> <br /> <img src="https://img.shields.io/badge/DevOps-CI%2FCD-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=blue" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
 ---
 
@@ -45,7 +43,7 @@
 
 ---
 
-## 💻 Tech Stack Breakdown 
+## 💻 Tech Stack Breakdown (Like the Screenshot)
 
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|

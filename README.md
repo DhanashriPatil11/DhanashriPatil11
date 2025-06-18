@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- Core Languages & Tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,docker,aws,vercel,netlify,jenkins" />
   <br />
   <!-- Hosting & DevOps (with fallback icons for unsupported items) -->
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />

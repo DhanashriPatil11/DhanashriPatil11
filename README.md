@@ -25,12 +25,7 @@
 <p align="center">
   <!-- Core Languages & Tools -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,docker,aws,vercel,netlify,jenkins" />
-  <br />
-  <!-- Hosting & DevOps (with fallback icons for unsupported items) -->
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  <img src="https://cdn.simpleicons.org/render/white/000000" height="40" title="Render" />
-  <img src="https://cdn.simpleicons.org/githubactions/white/2088FF" height="40" title="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/githubpages/white/121013" height="40" title="GitHub Pages" />
+  
 </p>
 ---
 

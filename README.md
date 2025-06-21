@@ -48,7 +48,7 @@
 
 ---
 
-## 💻 Tech Stack Breakdown (Like the Screenshot)
+## 💻 Tech Stack Breakdown
 
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|
